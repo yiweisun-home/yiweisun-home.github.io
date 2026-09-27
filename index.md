@@ -10,7 +10,7 @@ classes: wide
 
 I am a Ph.D. candidate in Economics at Cornell University. 
 
-My research is in econometrics, with a focus on causal inference and statistical decision theory.
+My primary research interests are in econometrics, both theoretical and applied, with a focus on causal inference. Broadly, my work aims to understand how to draw more credible conclusions from data, particularly when standard identifying assumptions may not hold exactly. I also work on statistical decision theory to provide theoretical justification and computational advances for policy-relevant questions in experimental design.
 
 I am advised by [Francesca Molinari](https://molinari.economics.cornell.edu/), [Jörg Stoye](https://stoye.economics.cornell.edu/), and [José Luis Montiel Olea](https://joseluismontielolea.com).
 
