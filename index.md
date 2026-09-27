@@ -3,6 +3,7 @@ layout: single
 permalink: /
 title: ""
 author_profile: true
+classes: wide
 ---
 
 ## Hi there!
