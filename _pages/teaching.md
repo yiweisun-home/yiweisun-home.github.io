@@ -4,7 +4,8 @@ toc: false
 classes: wide
 ---
 
-- Teaching Assistant for [ECON 1110, Introductory Microeconomics](https://classes.cornell.edu/browse/roster/SP25/class/ECON/1110) (Undergraduate), Spring 2025
+- Teaching Assistant for [ECON 1110, Introductory Microeconomics](https://classes.cornell.edu/browse/roster/SP25/class/ECON/1110) (Undergraduate), Spring 2025\
+(grading and office hours only)
 
 - Teaching Assistant for [ECON 6190, Econometrics I](https://classes.cornell.edu/browse/roster/FA24/class/ECON/6190) (Ph.D.), Fall 2024 and Fall 2023\
 [[Evaluation](/_pages/teaching-docs/CourseEval-Fall_2024-ECON_6190-DIS_201_YiweiSun.pdf)]
