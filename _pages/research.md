@@ -4,8 +4,6 @@ toc: false
 classes: wide
 ---
 
-My research focuses on xxx.
-
 ## Working Papers
 
 - **Robust Inference and Sensitivity Analysis for Difference-in-Discontinuities Designs** (JMP) \
