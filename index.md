@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-## Hi there!
+## About Me
 
-I am a Ph.D. candidate in Economics at Cornell University. 
+Hi there! My name is Yiwei (pronounced *Ee-way*), and I am a Ph.D. candidate in Economics at Cornell University. 
 
 My primary research interests are in theoretical and applied econometrics, with a focus on causal inference. 
 
