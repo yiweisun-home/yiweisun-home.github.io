@@ -16,7 +16,7 @@ I am advised by [Francesca Molinari](https://francesca-molinari.github.io), [Jö
 
 Before joining Cornell, I obtained a BA *summa cum laude* in Mathematics and Economics from the University of Richmond.
 
-**CV:** [[`yiwei-sun-cv`](/assets/yiwei_sun_cv_092926.pdf)]
+**CV:** [[`yiwei-sun-cv`](/assets/yiwei_sun_cv.pdf)]
 
 **Email:** [ys556@cornell.edu](mailto:ys556@cornell.edu)
 
