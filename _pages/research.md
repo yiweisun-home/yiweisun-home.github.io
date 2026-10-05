@@ -8,7 +8,7 @@ My research aims to understand how to draw credible conclusions from data under 
 
 ## Working Papers
 
-- **Robust Inference and Sensitivity Analysis for Difference-in-Discontinuities Designs** (JMP) \
+- **Robust Inference and Sensitivity Analysis for Difference-in-Discontinuities Designs** \
 (draft available soon)
 
 - **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2025) \
