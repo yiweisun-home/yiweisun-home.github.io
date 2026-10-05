@@ -11,10 +11,42 @@ My research aims to understand how to draw credible conclusions from data under 
 - **Robust Inference and Sensitivity Analysis for Difference-in-Discontinuities Designs** (JMP) \
 (draft available soon)
 
-- **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2025), with [José Luis Montiel Olea](https://joseluismontielolea.com), Brenda Prallon, [Chen Qiu](https://sites.google.com/view/chen-qiu), and [Jörg Stoye](https://stoye.economics.cornell.edu)\
+- **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2025) \
+  <span style="color: #777;">with [José Luis Montiel Olea](https://joseluismontielolea.com), Brenda Prallon, [Chen Qiu](https://sites.google.com/view/chen-qiu), and [Jörg Stoye](https://stoye.economics.cornell.edu) </span>\
   <span style="font-size:0.8em;">Revision Requested at *JPE:Micro* </span> \
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 26th ACM Conference on Economics and Computation (EC'24)*</span> \
   [[`arXiv`](https://arxiv.org/abs/2408.09187)] | [[`EC'25`](https://dl.acm.org/doi/10.1145/3736252.3742590)]
   
+  <details>
+  <summary>Abstract</summary>
+  We present a decision-theoretic justification for viewing the question of how to best choose
+  where to experiment in order to optimize external validity as a $k$-median problem, a popular
+  problem in computer science and operations research. In particular, when treatment effect
+  heterogeneity across experimental and policy-relevant sites is substantial (in a sense we make
+  precise), we present conditions under which minimizing the worst-case, welfare-based regret
+  among all nonrandom schemes that select $k$ sites to experiment is equivalent to solving a
+  $k$-median problem. The connection costs in the relevant $k$-median problem are given by ex-
+  ante bounds on worst-case voltage effects between sites, and minimizing the sum of worst-case
+  voltage effects can be cast as a linear integer program. Two empirical applications illustrate
+  the theoretical and computational benefits of the suggested procedure.
+  </details>
+  
 - **Extrapolating Away from the Cutoff in Regression Discontinuity Designs** (2023) \
   [[`arXiv`](https://arxiv.org/abs/2311.18136)] (updated draft available upon request)
+
+  <details>
+  <summary>Abstract</summary>
+  Canonical RD designs yield credible local estimates of the treatment effect at the cutoff under mild continuity assumptions, but they fail to identify treatment effects away from the cutoff without additional assumptions. The fundamental challenge of identifying treatment effects away from the cutoff is that the counterfactual outcome under the alternative treatment status is never observed. This paper aims to provide a methodological blueprint to identify treatment effects away from the cutoff in various empirical settings by offering a non-exhaustive list of assumptions on the counterfactual outcome. Instead of assuming the exact evolution of the counterfactual outcome, this paper bounds its variation using the data and sensitivity parameters. The proposed assumptions are weaker than those introduced previously in the literature, resulting in partially identified treatment effects that are less susceptible to assumption violations. This approach accommodates both single cutoff and multi-cutoff designs. The specific choice of the extrapolation assumption depends on the institutional background of each empirical application. Additionally, researchers are recommended to conduct sensitivity analysis on the chosen parameter and assess resulting shifts in conclusions. The paper compares the proposed identification results with results using previous methods via an empirical application and simulated data. It demonstrates that set identification yields a more credible conclusion about the sign of the treatment effect.
+  </details>
+
+## Pre-doctoral Publication 
+
+- **Abelian difference sets with the symmetric difference property** (2021) \
+  <span style="color: #777;">with James A. Davis,  J. J. Hoo, Connor Kissane, Ziming Liu, Calvin Reedy, Kartikey Sharma, Ken Smith <\span>\
+  <span style="font-size:0.8em;"> *Designs, Codes and Cryptography* </span> \
+  [[`Paper`](https://link.springer.com/article/10.1007/s10623-020-00829-5)]
+
+  <details>
+  <summary>Abstract</summary>
+  A $(v,k,\lambda)$ symmetric design is said to have the symmetric difference property (SDP) if the symmetric difference of any three blocks is either a block or the complement of a block. The designs associated to the   symplectic difference sets introduced by Kantor (J Algebra 33:43–58, 1975) have the SDP. Parker (J Comb Theory Ser A 67:23–43, 1994) claimed that the symplectic design on 64 points is the only SDP design on 64 points admitting an abelian regular automorphism group (an abelian difference set). We show in this paper that there is an SDP design on 64 points that is not isomorphic to the symplectic design and yet admits the group $C_8 \times C_4 \times C_2$ as a regular automorphism group. This abelian difference set is the first in an infinite family of abelian difference sets whose designs have the SDP and yet are not isomorphic to the symplectic designs of the same order. We define a new method for establishing the non-isomorphism of the two families.
+  </details>
