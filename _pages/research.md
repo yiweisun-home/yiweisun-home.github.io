@@ -12,7 +12,7 @@ My research aims to understand how to draw credible conclusions from data under 
 (draft available soon)
 
 - **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2025) \
-  <span style="color: #777;">with [José Luis Montiel Olea](https://joseluismontielolea.com), [Brenda Prallon](https://brendaprallon.github.io), [Chen Qiu](https://sites.google.com/view/chen-qiu), and [Jörg Stoye](https://stoye.economics.cornell.edu) </span>\
+  with [José Luis Montiel Olea](https://joseluismontielolea.com), [Brenda Prallon](https://brendaprallon.github.io), [Chen Qiu](https://sites.google.com/view/chen-qiu), and [Jörg Stoye](https://stoye.economics.cornell.edu) \
   <span style="font-size:0.8em;">Revision Requested at *JPE:Micro* </span> \
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 26th ACM Conference on Economics and Computation (EC'24)*</span> \
   [[`arXiv`](https://arxiv.org/abs/2408.09187)] | [[`EC'25`](https://dl.acm.org/doi/10.1145/3736252.3742590)]
@@ -24,9 +24,9 @@ My research aims to understand how to draw credible conclusions from data under 
   problem in computer science and operations research. In particular, when treatment effect
   heterogeneity across experimental and policy-relevant sites is substantial (in a sense we make
   precise), we present conditions under which minimizing the worst-case, welfare-based regret
-  among all nonrandom schemes that select $k$ sites to experiment is equivalent to solving a
-  $k$-median problem. The connection costs in the relevant $k$-median problem are given by ex-
-  ante bounds on worst-case voltage effects between sites, and minimizing the sum of worst-case
+  among all nonrandom schemes that select k sites to experiment is equivalent to solving a
+  k-median problem. The connection costs in the relevant k-median problem are given by ex-ante 
+  bounds on worst-case voltage effects between sites, and minimizing the sum of worst-case
   voltage effects can be cast as a linear integer program. Two empirical applications illustrate
   the theoretical and computational benefits of the suggested procedure.
   </details>
@@ -42,11 +42,11 @@ My research aims to understand how to draw credible conclusions from data under 
 ## Predoctoral Publication 
 
 - **Abelian difference sets with the symmetric difference property** (2021) \
-  <span style="color: #777;">with James A. Davis,  J. J. Hoo, Connor Kissane, Ziming Liu, Calvin Reedy, Kartikey Sharma, Ken Smith <\span>\
+  with James A. Davis,  J. J. Hoo, Connor Kissane, Ziming Liu, Calvin Reedy, Kartikey Sharma, Ken Smith \
   <span style="font-size:0.8em;"> *Designs, Codes and Cryptography* </span> \
   [[`Paper`](https://link.springer.com/article/10.1007/s10623-020-00829-5)]
 
   <details>
   <summary>Abstract</summary>
-  A $(v,k,\lambda)$ symmetric design is said to have the symmetric difference property (SDP) if the symmetric difference of any three blocks is either a block or the complement of a block. The designs associated to the   symplectic difference sets introduced by Kantor (J Algebra 33:43–58, 1975) have the SDP. Parker (J Comb Theory Ser A 67:23–43, 1994) claimed that the symplectic design on 64 points is the only SDP design on 64 points admitting an abelian regular automorphism group (an abelian difference set). We show in this paper that there is an SDP design on 64 points that is not isomorphic to the symplectic design and yet admits the group $C_8 \times C_4 \times C_2$ as a regular automorphism group. This abelian difference set is the first in an infinite family of abelian difference sets whose designs have the SDP and yet are not isomorphic to the symplectic designs of the same order. We define a new method for establishing the non-isomorphism of the two families.
+  A *(v, k, λ)* symmetric design is said to have the symmetric difference property (SDP) if the symmetric difference of any three blocks is either a block or the complement of a block. The designs associated to the   symplectic difference sets introduced by Kantor (J Algebra 33:43–58, 1975) have the SDP. Parker (J Comb Theory Ser A 67:23–43, 1994) claimed that the symplectic design on 64 points is the only SDP design on 64 points admitting an abelian regular automorphism group (an abelian difference set). We show in this paper that there is an SDP design on 64 points that is not isomorphic to the symplectic design and yet admits the group C<sub>8</sub> &times; C<sub>4</sub> &times; C<sub>2</sub> as a regular automorphism group. This abelian difference set is the first in an infinite family of abelian difference sets whose designs have the SDP and yet are not isomorphic to the symplectic designs of the same order. We define a new method for establishing the non-isomorphism of the two families.
   </details>
