@@ -19,16 +19,18 @@ My research aims to understand how to draw credible conclusions from data under 
   
   <details>
   <summary>Abstract</summary>
+  <p>
   We present a decision-theoretic justification for viewing the question of how to best choose
-  where to experiment in order to optimize external validity as a $k$-median problem, a popular
+  where to experiment in order to optimize external validity as a *k*-median problem, a popular
   problem in computer science and operations research. In particular, when treatment effect
   heterogeneity across experimental and policy-relevant sites is substantial (in a sense we make
   precise), we present conditions under which minimizing the worst-case, welfare-based regret
   among all nonrandom schemes that select k sites to experiment is equivalent to solving a
-  k-median problem. The connection costs in the relevant k-median problem are given by ex-ante 
+  *k*-median problem. The connection costs in the relevant *k*-median problem are given by ex-ante 
   bounds on worst-case voltage effects between sites, and minimizing the sum of worst-case
   voltage effects can be cast as a linear integer program. Two empirical applications illustrate
   the theoretical and computational benefits of the suggested procedure.
+  </p>
   </details>
   
 - **Extrapolating Away from the Cutoff in Regression Discontinuity Designs** (2023) \
@@ -36,7 +38,9 @@ My research aims to understand how to draw credible conclusions from data under 
 
   <details>
   <summary>Abstract</summary>
+  <p>
   Canonical RD designs yield credible local estimates of the treatment effect at the cutoff under mild continuity assumptions, but they fail to identify treatment effects away from the cutoff without additional assumptions. The fundamental challenge of identifying treatment effects away from the cutoff is that the counterfactual outcome under the alternative treatment status is never observed. This paper aims to provide a methodological blueprint to identify treatment effects away from the cutoff in various empirical settings by offering a non-exhaustive list of assumptions on the counterfactual outcome. Instead of assuming the exact evolution of the counterfactual outcome, this paper bounds its variation using the data and sensitivity parameters. The proposed assumptions are weaker than those introduced previously in the literature, resulting in partially identified treatment effects that are less susceptible to assumption violations. This approach accommodates both single cutoff and multi-cutoff designs. The specific choice of the extrapolation assumption depends on the institutional background of each empirical application. Additionally, researchers are recommended to conduct sensitivity analysis on the chosen parameter and assess resulting shifts in conclusions. The paper compares the proposed identification results with results using previous methods via an empirical application and simulated data. It demonstrates that set identification yields a more credible conclusion about the sign of the treatment effect.
+  </p>
   </details>
 
 ## Predoctoral Publication 
@@ -48,5 +52,7 @@ My research aims to understand how to draw credible conclusions from data under 
 
   <details>
   <summary>Abstract</summary>
+  <p>
   A *(v, k, λ)* symmetric design is said to have the symmetric difference property (SDP) if the symmetric difference of any three blocks is either a block or the complement of a block. The designs associated to the   symplectic difference sets introduced by Kantor (J Algebra 33:43–58, 1975) have the SDP. Parker (J Comb Theory Ser A 67:23–43, 1994) claimed that the symplectic design on 64 points is the only SDP design on 64 points admitting an abelian regular automorphism group (an abelian difference set). We show in this paper that there is an SDP design on 64 points that is not isomorphic to the symplectic design and yet admits the group C<sub>8</sub> &times; C<sub>4</sub> &times; C<sub>2</sub> as a regular automorphism group. This abelian difference set is the first in an infinite family of abelian difference sets whose designs have the SDP and yet are not isomorphic to the symplectic designs of the same order. We define a new method for establishing the non-isomorphism of the two families.
+  </p>
   </details>
