@@ -4,6 +4,8 @@ toc: false
 classes: wide
 ---
 
+## Cornell University 
+
 - Teaching Assistant for [ECON 1110, Introductory Microeconomics](https://classes.cornell.edu/browse/roster/SP25/class/ECON/1110) (Undergraduate), Spring 2025\
 Professor: George Orlov | (grading and office hours only)
 
