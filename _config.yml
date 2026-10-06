@@ -271,7 +271,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-title_from_headings:
+titles_from_headings:
   enabled: false
 
 # mimic GitHub Pages with --safe
