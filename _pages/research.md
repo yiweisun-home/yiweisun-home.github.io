@@ -11,7 +11,7 @@ My research aims to understand how to draw credible conclusions from data under 
 - **Robust Inference and Sensitivity Analysis for Difference-in-Discontinuities Designs** \
 (draft available soon)
 
-- **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2025) \
+- **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2026) \
   with [José Luis Montiel Olea](https://joseluismontielolea.com), [Brenda Prallon](https://brendaprallon.github.io), [Chen Qiu](https://sites.google.com/view/chen-qiu), and [Jörg Stoye](https://stoye.economics.cornell.edu) \
   <span style="font-size:0.8em;">Revision Requested at *JPE:Micro* </span> \
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 26th ACM Conference on Economics and Computation (EC'24)*</span> \
@@ -33,7 +33,7 @@ My research aims to understand how to draw credible conclusions from data under 
   </p>
   </details>
   
-- **Extrapolating Away from the Cutoff in Regression Discontinuity Designs** (2023) \
+- **Extrapolating Away from the Cutoff in Regression Discontinuity Designs** (2025) \
   [[`arXiv`](https://arxiv.org/abs/2311.18136)] (updated draft available upon request)
 
   <details>
