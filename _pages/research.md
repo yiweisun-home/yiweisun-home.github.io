@@ -21,12 +21,12 @@ My research aims to understand how to draw credible conclusions from data under 
   <summary>Abstract</summary>
   <p>
   We present a decision-theoretic justification for viewing the question of how to best choose
-  where to experiment in order to optimize external validity as a *k*-median problem, a popular
+  where to experiment in order to optimize external validity as a k-median problem, a popular
   problem in computer science and operations research. In particular, when treatment effect
   heterogeneity across experimental and policy-relevant sites is substantial (in a sense we make
   precise), we present conditions under which minimizing the worst-case, welfare-based regret
   among all nonrandom schemes that select k sites to experiment is equivalent to solving a
-  *k*-median problem. The connection costs in the relevant *k*-median problem are given by ex-ante 
+  k-median problem. The connection costs in the relevant k-median problem are given by ex-ante 
   bounds on worst-case voltage effects between sites, and minimizing the sum of worst-case
   voltage effects can be cast as a linear integer program. Two empirical applications illustrate
   the theoretical and computational benefits of the suggested procedure.
@@ -53,6 +53,6 @@ My research aims to understand how to draw credible conclusions from data under 
   <details>
   <summary>Abstract</summary>
   <p>
-  A *(v, k, λ)* symmetric design is said to have the symmetric difference property (SDP) if the symmetric difference of any three blocks is either a block or the complement of a block. The designs associated to the   symplectic difference sets introduced by Kantor (J Algebra 33:43–58, 1975) have the SDP. Parker (J Comb Theory Ser A 67:23–43, 1994) claimed that the symplectic design on 64 points is the only SDP design on 64 points admitting an abelian regular automorphism group (an abelian difference set). We show in this paper that there is an SDP design on 64 points that is not isomorphic to the symplectic design and yet admits the group C<sub>8</sub> &times; C<sub>4</sub> &times; C<sub>2</sub> as a regular automorphism group. This abelian difference set is the first in an infinite family of abelian difference sets whose designs have the SDP and yet are not isomorphic to the symplectic designs of the same order. We define a new method for establishing the non-isomorphism of the two families.
+  A (v, k, λ) symmetric design is said to have the symmetric difference property (SDP) if the symmetric difference of any three blocks is either a block or the complement of a block. The designs associated to the   symplectic difference sets introduced by Kantor (J Algebra 33:43–58, 1975) have the SDP. Parker (J Comb Theory Ser A 67:23–43, 1994) claimed that the symplectic design on 64 points is the only SDP design on 64 points admitting an abelian regular automorphism group (an abelian difference set). We show in this paper that there is an SDP design on 64 points that is not isomorphic to the symplectic design and yet admits the group C<sub>8</sub> &times; C<sub>4</sub> &times; C<sub>2</sub> as a regular automorphism group. This abelian difference set is the first in an infinite family of abelian difference sets whose designs have the SDP and yet are not isomorphic to the symplectic designs of the same order. We define a new method for establishing the non-isomorphism of the two families.
   </p>
   </details>
