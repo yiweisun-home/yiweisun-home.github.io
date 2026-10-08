@@ -10,6 +10,12 @@ My research aims to understand how to draw credible conclusions from data under 
 
 - **Robust Inference and Sensitivity Analysis for Difference-in-Discontinuities Designs** \
 (draft available soon)
+    <details>
+    <summary>Abstract</summary>
+    <p>
+  	Difference-in-discontinuities (DiDC) designs aim to identify the local effect of a treatment introduced at a cutoff that also determines exposure to a confounding policy by differencing the pre-treatment regression discontinuity and the post-treatment regression discontinuity, under the assumption that the effect of the confounding policy at the cutoff remains constant over time. We develop identification and inference procedures that relax this restriction when there are multiple pre-treatment periods. We first show that we can leverage the vector of period-specific RD estimands to impose restrictions on the evolution of the counterfactual discontinuity based on its observed pre-treatment path, following the sensitivity framework developed in the Difference-in-Difference literature. The resulting identified sets nest the conventional point-identified estimands as special cases. We then establish a uniform joint Gaussian approximation for the vector of local-polynomial RD estimators and consistency of the full cross-period covariance estimator under explicit regularity, bias, and bandwidth conditions. These results justify the application of sensitivity-robust confidence procedures in the nonparametric DiDC setting. 
+    </p>
+    </details>
 
 - **Externally Valid Selection of Experimental Sites via the k-Median Problem** (2026) \
   with [José Luis Montiel Olea](https://joseluismontielolea.com), [Brenda Prallon](https://brendaprallon.github.io), [Chen Qiu](https://sites.google.com/view/chen-qiu), and [Jörg Stoye](https://stoye.economics.cornell.edu) \
