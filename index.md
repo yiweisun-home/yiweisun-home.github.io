@@ -20,4 +20,4 @@ Before joining Cornell, I obtained a BA *summa cum laude* in Mathematics and Eco
 
 **Email:** [ys556@cornell.edu](mailto:ys556@cornell.edu)
 
-I am on the 2026-2027 job market, looking for private sector and teaching positions.
+I am on the 2026-2027 job market.
