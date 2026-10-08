@@ -22,7 +22,6 @@ My research aims to understand how to draw credible conclusions from data under 
   <span style="font-size:0.8em;">Revision Requested at *JPE:Micro* </span> \
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 26th ACM Conference on Economics and Computation (EC'25)*</span> \
   [[`arXiv`](https://arxiv.org/abs/2408.09187)] | [[`EC'25`](https://dl.acm.org/doi/10.1145/3736252.3742590)]
-  
   <details>
   <summary>Abstract</summary>
   <p>
@@ -41,7 +40,6 @@ My research aims to understand how to draw credible conclusions from data under 
   
 - **Extrapolating Away from the Cutoff in Regression Discontinuity Designs** (2025) \
   [[`arXiv`](https://arxiv.org/abs/2311.18136)] (updated draft available upon request)
-
   <details>
   <summary>Abstract</summary>
   <p>
