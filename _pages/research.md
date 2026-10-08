@@ -53,7 +53,6 @@ My research aims to understand how to draw credible conclusions from data under 
   with James A. Davis,  J. J. Hoo, Connor Kissane, Ziming Liu, Calvin Reedy, Kartikey Sharma, Ken Smith \
   <span style="font-size:0.8em;"> *Designs, Codes and Cryptography* </span> \
   [[`Paper`](https://link.springer.com/article/10.1007/s10623-020-00829-5)]
-
   <details>
   <summary>Abstract</summary>
   <p>
