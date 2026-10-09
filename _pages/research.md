@@ -47,7 +47,7 @@ My research aims to understand how to draw credible conclusions from data under 
   </p>
   </details>
 
-## Predoctoral Publication 
+## Peer-Reviewed Publication 
 
 - **Abelian difference sets with the symmetric difference property** (2021) \
   with James A. Davis,  J. J. Hoo, Connor Kissane, Ziming Liu, Calvin Reedy, Kartikey Sharma, Ken Smith \
