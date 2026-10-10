@@ -20,7 +20,7 @@ Professor: Doug McKee | [[`Evaluation`](/_pages/teaching-docs/CourseEval-Fall_20
 
 #### Student feedback highlights
 
-<div style="font-size: 0.85em;" markdown="1">
+<div style="font-size: 0.8em;" markdown="1">
 
 > "Sections were incredibly detailed yet remained concise. They were organized and thoughtful. They provided all information one
 needed to have an intuitive yet rigorous understanding of complex problems."
