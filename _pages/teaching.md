@@ -27,7 +27,6 @@ needed to have an intuitive yet rigorous understanding of complex problems."
 
 > "Super clear and informative answers to questions, willing and able to explain things in different ways" 
 
-> "Yiwei was excellent at organizing her notes and explaining everything in a very clear, approachable manner. Her experience TAing
-this course before was evident from her often showing common pitfalls and places to get tripped up."
+> "Yiwei was excellent at organizing her notes and explaining everything in a very clear, approachable manner."
 
 </div>
