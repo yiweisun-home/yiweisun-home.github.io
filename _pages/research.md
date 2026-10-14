@@ -4,7 +4,7 @@ toc: false
 classes: wide
 ---
 
-My research aims to understand how to draw credible conclusions from data under more realistic assumptions, with particular emphasis on extrapolation and external validity. I am interested in using credible econometric methods to provide reliable empirical evidence for program evaluation and policy making.
+My research aims to understand how to draw credible conclusions from data under more realistic assumptions, with particular emphasis on extrapolation and external validity. I am interested in developing econometric methods to provide reliable empirical evidence for program evaluation and policy making.
 
 ## Working Papers
 
