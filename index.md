@@ -10,7 +10,7 @@ classes: wide
 
 My name is Yiwei (pronounced *Ee-way*), and I am a Ph.D. candidate in Economics at Cornell University. 
 
-My primary research interests are in both theoretical and applied econometrics, with a focus on causal inference. I am passionate about providing empirical researchers with practical tools for drawing transparent and informative conclusions under assumptions that may be more credible in practice.
+My primary research interests lie in both theoretical and applied econometrics, with a focus on causal inference and policy evaluation. I am passionate about developing practical tools that help empirical researchers draw transparent and informative conclusions under assumptions that are more credible in practice.
 
 I am advised by [Francesca Molinari](https://francesca-molinari.github.io), [Jörg Stoye](https://stoye.economics.cornell.edu/), and [José Luis Montiel Olea](https://joseluismontielolea.com).
 
