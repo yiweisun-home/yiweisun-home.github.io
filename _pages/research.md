@@ -9,11 +9,11 @@ My research aims to understand how to draw credible conclusions from data under 
 ## Working Papers
 
 - **Sensitivity Analysis for Difference-in-Discontinuities Designs** \
-(draft available soon)
+  [[`Draft`](/_pages/sun_jmp_103026.pdf)]
     <details>
     <summary>Abstract</summary>
     <p>
-  	Difference-in-discontinuities (DiDC) designs aim to identify the local effect of a treatment introduced at a cutoff that also determines exposure to a confounding policy by differencing the pre-treatment regression discontinuity and the post-treatment regression discontinuity, under the assumption that the effect of the confounding policy at the cutoff remains constant over time. We establish identification results under relaxation of this restriction when there are multiple pre-treatment periods. We  show that we can leverage the vector of period-specific RD estimands to impose restrictions on the evolution of the counterfactual discontinuity based on its observed pre-treatment path, following the sensitivity framework developed in the Difference-in-Difference literature. The resulting identified sets nest the conventional point-identified estimands as special cases. We propose an estimation and inference procedure for the identified set and show its practical usefulness through simulation. 
+  	Difference-in-discontinuities (DiDC) designs identify the treatment effect of a policy introduced at a cutoff that also determines exposure to a pre-existing confounding policy by comparing the post- and pre-period regression discontinuities. The canonical design assumes that the confounding discontinuity remains constant over time, which may be difficult to justify in practice. This paper develops an identification and inference framework when this assumption may be violated. Following the sensitivity framework developed in the difference-in-differences literature, we leverage observed discontinuities from multiple pre periods to inform restrictions on the evolution of the counterfactual discontinuities after the introduction of the policy. The resulting identified sets nest the conventional point-identified estimand as a special case. We use an existing joint asymptotic normality result for local-polynomial RD estimators and the consistency of the full cross-period covariance estimator to justify confidence sets based on moment inequality tests in this nonparametric DiDC setting. These sets provide pointwise asymptotic coverage under explicit regularity, bias, bandwidth, and sensitivity class conditions. Simulations show that, when confounding varies over time, the proposed procedure has better coverage probability relative to conventional DiDC inference.
     </p>
     </details>
 
