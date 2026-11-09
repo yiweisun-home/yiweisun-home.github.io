@@ -30,3 +30,17 @@ needed to have an intuitive yet rigorous understanding of complex problems."
 > "Yiwei was excellent at organizing her notes and explaining everything in a very clear, approachable manner."
 
 </div>
+
+## University of Richmond
+
+- Teaching Assistant for [ECON 341, Mathematical Economics](https://catalog.richmond.edu/courses/ECON341/general-aoYks) (Undergraduate), Spring 2021\
+Professor: Saif Mehkari
+
+- Teaching Assistant for [ECON 242, Data Analysis and Computing](https://catalog.richmond.edu/courses/ECON242/general-aoYks) (Undergraduate), Fall 2020\
+Professor: Saif Mehkari
+
+- Course Mentor for [MATH 300, Fundamentals of Abstract Math](https://catalog.richmond.edu/courses/MATH300/general-aoYks) (Undergraduate), Fall 2020\
+Professor: Heather Russell
+
+
+
